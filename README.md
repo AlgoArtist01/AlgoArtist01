@@ -49,12 +49,6 @@ I enjoy exploring how theoretical concepts can be transformed into practical too
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoArtist01&theme=tokyonight" />
-</p>
-
 ## What I'm Building
 
 ```text
