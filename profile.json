@@ -1,0 +1,29 @@
+{
+  "name": "Mohammed Zaid",
+  "username": "AlgoArtist01",
+  "role": "Student Developer",
+  "interests": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Cybersecurity",
+    "Research",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "C++",
+    "C",
+    "Python"
+  ],
+  "current_focus": [
+    "Machine Learning",
+    "AI Applications",
+    "Security Research",
+    "Problem Solving"
+  ],
+  "career_goals": [
+    "ML Engineer",
+    "Researcher",
+    "Technology Entrepreneur"
+  ],
+  "motto": "Learn deeply. Build consistently. Think critically."
+}
