@@ -4,12 +4,6 @@
   <b>AI/ML Enthusiast • Cybersecurity Learner • Builder • Research-Oriented Developer</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AlgoArtist01">
-    <img src="https://komarev.com/ghpvc/?username=AlgoArtist01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## About Me
