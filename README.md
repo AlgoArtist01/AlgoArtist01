@@ -52,11 +52,6 @@ I enjoy exploring how theoretical concepts can be transformed into practical too
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlgoArtist01&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoArtist01&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoArtist01&theme=tokyonight" />
 </p>
 
